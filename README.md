@@ -46,26 +46,25 @@ Công cụ hỗ trợ: XAMPP, phpMyAdmin
 
 Yêu cầu: XAMPP hoặc môi trường PHP + MySQL
 
-<<<<<<< HEAD
 # Sơ đồ user case tổng quát
 ![](Biểu_đồ_user_case_tổng_quát-1.png)
 
 # Biểu đồ tuần tự
-# Biểu đồ đăng kí
+## Biểu đồ đăng kí
 ![](Biểu_đồ_đk.png)
-# Biều đồ đăng nhập
+## Biều đồ đăng nhập
 ![](Biểu_đồ_đăng_nhập.png)
-# Tìm kiếm sp
+## Tìm kiếm sp
 ![](Tìm_kiếm_sp.png)
-# Đặt mua
+## Đặt mua
 ![](Đặt_mua.png)
-# Thanh toán
+## Thanh toán
 ![](Thanh_toán.png)
-# Thêm sp
+## Thêm sp
 ![](Thêm_sp.png)
-# Sửa sp
+## Sửa sp
 ![](Sửa_thông_tin_sp.png)
-# Xoá sp
+## Xoá sp
 ![](Xoá_sp.png)
 
 # Một số hình hình ảnh của trang web
@@ -111,5 +110,4 @@ Yêu cầu: XAMPP hoặc môi trường PHP + MySQL
 
 
 
-=======
->>>>>>> 9c12c7058a2e8075977e8028ce4efd7321431e7e
+
