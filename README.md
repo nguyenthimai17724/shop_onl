@@ -5,9 +5,10 @@ shop_onl is a website that sells office attire for women
 link demo: https://www.youtube.com/watch?v=9Ykmn7iKAEE
 # Chức năng
 
-Thứ nhất: Phần người dùng 
+❖ Thứ nhất: Phần người dùng 
 
-❖ Người dùng là những người có nhu cầu mua sắm đồ công sở, họ sẽ tìm kiếm các 
+• Thứ hai: Phần quản trị viên: 
+ Người dùng là những người có nhu cầu mua sắm đồ công sở, họ sẽ tìm kiếm các 
 mặt hàng phù hợp với nhu cầu của mình trên hệ thống và đặt mua các mặt hàng 
 này. Vì thế phần người dùng có các chức năng sau: 
 
@@ -19,9 +20,9 @@ mua.
 o Người dùng xem các thông tin, khuyến mãi và đánh giá của khách hàng trước 
 về cửa hàng. 
 
-• Thứ hai: Phần quản trị viên: 
+❖ Thứ hai: Phần quản trị viên: 
 
-❖ Người quản trị có quyền kiểm soát mọi hoạt động của hệ thống. Người này được 
+• Người quản trị có quyền kiểm soát mọi hoạt động của hệ thống. Người này được 
 cấp username và password để đăng nhập hệ thống thực hiện chức năng của mình. 
 Vì thế phần quản trị viên có các chức năng sau. 
 
