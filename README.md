@@ -46,6 +46,7 @@ Công cụ hỗ trợ: XAMPP, phpMyAdmin
 
 Yêu cầu: XAMPP hoặc môi trường PHP + MySQL
 
+<<<<<<< HEAD
 # Sơ đồ user case tổng quát
 ![](Biểu_đồ_user_case_tổng_quát-1.png)
 
@@ -110,3 +111,5 @@ Yêu cầu: XAMPP hoặc môi trường PHP + MySQL
 
 
 
+=======
+>>>>>>> 9c12c7058a2e8075977e8028ce4efd7321431e7e
